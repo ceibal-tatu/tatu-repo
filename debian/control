@@ -1,0 +1,14 @@
+Source: tatu-repo
+Section: admin
+Priority: optional
+Maintainer: Santiago Aguiar <santiago.aguiar@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+#Vcs-Git: git://git.debian.org/collab-maint/tatu-repo.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/tatu-repo.git;a=summary
+
+Package: tatu-repo
+Architecture: all
+Depends: ${misc:Depends}, wget, apt
+Description: Repositorio Tatu
+ Configura e instala las claves necesarias para usar el repositorio Tatu.

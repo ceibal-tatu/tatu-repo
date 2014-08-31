@@ -1,0 +1,11 @@
+tatu-repo (0.2) tatu; urgency=medium
+
+  * Changed curl dependency for wget. 
+
+ -- Santiago Aguiar <santiago.aguiar@gmail.com>  Thu, 28 Aug 2014 01:46:41 +0000
+
+tatu-repo (0.1) tatu; urgency=low
+
+  * Initial Release.
+
+ -- Santiago Aguiar <santiago.aguiar@gmail.com>  Mon, 25 Aug 2014 22:26:25 +0000
