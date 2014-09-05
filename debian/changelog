@@ -2,7 +2,7 @@ tatu-repo (0.3) tatu; urgency=medium
 
   * Configured unattended upgrades for _only_ this repo. 
 
- -- Santiago Aguiar <santiago.aguiar@gmail.com>  Thu, 04 Sep 2014 23:30:24 -0300
+ -- Santiago Aguiar <santiago.aguiar@gmail.com>  Fri, 05 Sep 2014 00:12:11 -0300
 
 tatu-repo (0.2) tatu; urgency=medium
 
