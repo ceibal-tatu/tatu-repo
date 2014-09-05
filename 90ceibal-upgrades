@@ -1,0 +1,12 @@
+// Habilitar unattended-upgrades
+APT::Periodic::Update-Package-Lists "1";
+APT::Periodic::Unattended-Upgrade "1";
+
+// Deshabilitar origenes por defecto
+#clear Unattended-Upgrade::Allowed-Origins
+
+// Configurar repositorio Ceibal
+// Todo: Cambiar a "Proyecto Ceibal:stable" cuando se cree el repo.
+Unattended-Upgrade::Allowed-Origins {
+        "Proyecto Cebail:";
+};
