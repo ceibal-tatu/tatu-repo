@@ -1,3 +1,9 @@
+tatu-repo (0.4) tatu; urgency=medium
+
+  * Force replace of config files. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 07 Sep 2014 20:08:11 -0300
+
 tatu-repo (0.3) tatu; urgency=medium
 
   * Configured unattended upgrades for _only_ this repo. 
