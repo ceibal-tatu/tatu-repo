@@ -10,3 +10,9 @@ APT::Periodic::Unattended-Upgrade "1";
 Unattended-Upgrade::Allowed-Origins {
         "Proyecto Cebail:";
 };
+
+// Sobreescribir conf files automaticamente.
+// Alternativamente: "--force-confdef"; "--force-confnew";?
+DPkg::options { 
+	"--force-confnew";
+}
