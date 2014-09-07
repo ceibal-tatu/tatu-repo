@@ -1,8 +1,9 @@
 tatu-repo (0.3) tatu; urgency=medium
 
   * Configured unattended upgrades for _only_ this repo. 
+  * Updated maintainer.
 
- -- Santiago Aguiar <santiago.aguiar@gmail.com>  Fri, 05 Sep 2014 00:12:11 -0300
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 07 Sep 2014 19:38:58 -0300
 
 tatu-repo (0.2) tatu; urgency=medium
 
