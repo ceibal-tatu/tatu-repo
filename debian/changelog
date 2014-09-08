@@ -1,3 +1,9 @@
+tatu-repo (0.5) tatu; urgency=medium
+
+  * Fixed Allowed Origins. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 07 Sep 2014 21:09:56 -0300
+
 tatu-repo (0.4) tatu; urgency=medium
 
   * Force replace of config files. 

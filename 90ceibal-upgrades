@@ -8,7 +8,7 @@ APT::Periodic::Unattended-Upgrade "1";
 // Configurar repositorio Ceibal
 // Todo: Cambiar a "Proyecto Ceibal:stable" cuando se cree el repo.
 Unattended-Upgrade::Allowed-Origins {
-        "Proyecto Cebail:";
+        "Proyecto Cebail:tatu";
 };
 
 // Sobreescribir conf files automaticamente.
